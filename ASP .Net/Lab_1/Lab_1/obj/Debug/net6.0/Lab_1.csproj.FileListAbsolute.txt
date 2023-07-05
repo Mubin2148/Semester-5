@@ -1,0 +1,15 @@
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.exe
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.deps.json
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.runtimeconfig.json
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.dll
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\bin\Debug\net6.0\Lab_1.pdb
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.csproj.AssemblyReference.cache
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfoInputs.cache
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.AssemblyInfo.cs
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.csproj.CoreCompileInputs.cache
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.dll
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\refint\Lab_1.dll
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.pdb
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\Lab_1.genruntimeconfig.cache
+I:\Semester-5\ASP .Net\Lab_1\Lab_1\obj\Debug\net6.0\ref\Lab_1.dll
